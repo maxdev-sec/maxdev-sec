@@ -6,7 +6,7 @@ I enjoy building hybrid environments, automating networks, and creating tools wi
 
 ---
 
-## 🔧 Tech Stack
+## Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-05122A?style=flat&logo=powershell)
@@ -20,7 +20,7 @@ I enjoy building hybrid environments, automating networks, and creating tools wi
 
 ---
 
-## 🛠️ Skills
+## Skills
 
 - **Languages:** Python · Bash · PowerShell · C (basic)
 - **Cloud & Infra:** AWS · Azure · Cloudflare · Terraform · GitHub Actions · Azure CLI
@@ -31,7 +31,7 @@ I enjoy building hybrid environments, automating networks, and creating tools wi
 
 ---
 
-## 📌 Projects
+## Projects
 
 - [`hybrid-cloud-lab`](#)  
   🏗️ Multi-site AD setup with Azure & Linux, pfSense, and Cloudflare Tunnels
@@ -44,7 +44,7 @@ I enjoy building hybrid environments, automating networks, and creating tools wi
 
 ---
 
-## 🌐 Portfolio & Blog
+## Portfolio & Blog
 
 [Coming soon](#) – a visual showcase of my labs, notes, and technical writeups.
 
