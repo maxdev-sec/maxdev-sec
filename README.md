@@ -34,13 +34,13 @@ I enjoy building hybrid environments, automating networks, and creating tools wi
 ## Projects
 
 - [`hybrid-cloud-lab`](#)  
-  🏗️ Multi-site AD setup with Azure & Linux, pfSense, and Cloudflare Tunnels
+  Multi-site AD setup with Azure & Linux, pfSense, and Cloudflare Tunnels
 
 - [`network-cloud-automation`](#)  
-  ⚙️ Network automation using Terraform + Python for hybrid cloud infra
+  Network automation using Terraform + Python for hybrid cloud infra
 
 - [`cybersecurity-analyst-lab`](#)  
-  🔍 Simulated SOC + ELK stack for SIEM log ingestion + Discord alerting
+  Simulated SOC + ELK stack for SIEM log ingestion + Discord alerting
 
 ---
 
