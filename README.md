@@ -12,7 +12,6 @@ I enjoy building hybrid environments, automating networks, and creating tools wi
 ![PowerShell](https://img.shields.io/badge/-PowerShell-05122A?style=flat&logo=powershell)
 ![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnubash)
 ![Terraform](https://img.shields.io/badge/-Terraform-05122A?style=flat&logo=terraform)
-![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazonaws)
 ![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=microsoftazure)
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-05122A?style=flat&logo=cloudflare)
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
